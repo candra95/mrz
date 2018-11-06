@@ -1,6 +1,6 @@
 <?php
 date_default_timezone_set('Asia/Jakarta');
-require_once("sdata-modules.php");
+require_once("s4s.php");
 /**
  * @Author: Eka Syahwan (sdata), Dani Hidayat
  * @Date:   2018-08-21
