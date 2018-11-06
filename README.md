@@ -8,7 +8,7 @@ Requires PHP v7 to run.
 
 Install Command
 
-$ git clone https://github.com/protogenox/sub4sub.git
+$ git clone https://github.com/mrz/sub4sub.git
 $ cd subs4subs
 Configuration
 
